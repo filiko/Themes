@@ -7,3 +7,5 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+- Working on being able to modify the UI because there are issues with the colors and stuff :/ rn it's just the text colors of the sheet
