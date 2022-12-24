@@ -1,9 +1,10 @@
 {
-	"name": "Leafy",
+	"name": "Leafypre",
 	"colors": {
-		"editor.background": "#f5f5f5",
-		"editor.foreground": "#333333",
-        "list.activeSelectionIconForeground": "#fff"
+		"editor.background": "#f5ffec", // literally background of entire page
+		"editor.foreground": "#e3f9ff", // colors of the symbol buttons
+        "list.activeSelectionIconForeground": "#338e39" // general text
+		
 	},
 	"tokenColors": [
 		{
@@ -14,7 +15,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#AAAAAA"
+				"foreground": "#2e3d2bf6"
 			}
 		},
 		{
@@ -98,7 +99,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#AA3731"
+				"foreground": "#e4ffdf" 
 			}
 		},
 		{
@@ -135,7 +136,7 @@
 				"constant"
 			],
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#3d7618" //digits
 			}
 		},
 		{
@@ -163,7 +164,7 @@
 			"name": "Strings: Symbols",
 			"scope": "constant.other.symbol",
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#ff7700" //unknown
 			}
 		},
 		{
@@ -222,7 +223,7 @@
 				"punctuation.definition.entity"
 			],
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#ffffff" // might be numbers
 			}
 		},
 		{
@@ -290,7 +291,7 @@
 			"name": "Markup: Error",
 			"scope": "markup.error",
 			"settings": {
-				"foreground": "#660000"
+				"foreground": "#000000"
 			}
 		},
 		{
