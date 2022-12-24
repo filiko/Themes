@@ -2,12 +2,12 @@
 	"name": "Leafypre",
 	"colors": {
 		"editor.background": "#f5ffec", // literally background of entire page
-		"editor.foreground": "#e3f9ff", // colors of the symbol buttons
+		"editor.foreground": "#185a13", // colors of the symbol buttons
         "list.activeSelectionIconForeground": "#338e39" // general text
 		
 	},
 	"tokenColors": [
-		{
+			{
 			"name": "Comments",
 			"scope": [
 				"comment",
