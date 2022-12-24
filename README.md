@@ -1,2 +1,2 @@
 # Themes
-Collection of favorite color schemes for VS Code
+Meant to relax eyes while providing a foresty vibe (no brown)
