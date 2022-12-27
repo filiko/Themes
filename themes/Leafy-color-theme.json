@@ -17,8 +17,11 @@
 	//	"breadcrumb.foreground": "#0d2708",
 	//	"breadcrumbPicker.background": "#ff2222",
 		"button.background": "#255219",
-		"contrastBorder": "#ffffff81",
-		"debugToolBar.background": "#EEFFF2",
+		"contrastBorder": "#44393981",
+		"debugToolBar.background": "#ffffff",
+
+
+
 		"diffEditor.insertedTextBackground": "#C0F2FF15",
 		"diffEditor.removedTextBackground": "#D1944D20",
 		"dropdown.background": "#EEFFF2",
@@ -201,7 +204,7 @@
 
 
 
-		
+
 		"textLink.foreground": "#ffffff",
 		"titleBar.activeBackground": "#146A22",
 		"titleBar.activeForeground": "#ffffff",
