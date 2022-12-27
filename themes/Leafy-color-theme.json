@@ -3,20 +3,21 @@
 	  "$schema": "vscode://schemas/color-theme",
 	  "type": "dark",
 	  "colors": {
-		"activityBar.background": "#166826",
-		"activityBar.border": "#000000",
-		"activityBar.foreground": "#b7dbbd",
-		"activityBarBadge.background": "#3c6237",
-		"activityBarBadge.foreground": "#EEFFF2",
-		"badge.background": "#5c916830",
-		"badge.foreground": "#C8F1C0",
-		"breadcrumb.activeSelectionForeground": "#C8F1C0",
-		"breadcrumb.background": "#EEFFF2",
-		"breadcrumb.focusForeground": "#2b6935",
-		"breadcrumb.foreground": "#D4FFCB",
-		"breadcrumbPicker.background": "#EEFFF2",
-		"button.background": "#C8F1C050",
-		"contrastBorder": "#13692781",
+		"activityBar.background": "#166826", //"#0e491b"
+		"activityBar.border": "#0000009f",
+		"activityBar.foreground": "#fff563",
+		"activityBarBadge.background": "#0a0600",
+		"activityBarBadge.foreground": "#ffffff",
+		
+	//	"badge.background": "#000000",
+	//	"badge.foreground": "#000000",
+	//	"breadcrumb.activeSelectionForeground": "#eb1b1b",
+		"breadcrumb.background": "#d9fac4",
+	//	"breadcrumb.focusForeground": "#745050",
+	//	"breadcrumb.foreground": "#0d2708",
+	//	"breadcrumbPicker.background": "#ff2222",
+		"button.background": "#255219",
+		"contrastBorder": "#ffffff81",
 		"debugToolBar.background": "#EEFFF2",
 		"diffEditor.insertedTextBackground": "#C0F2FF15",
 		"diffEditor.removedTextBackground": "#D1944D20",
@@ -191,17 +192,25 @@
 		"terminal.ansiRed": "#D1944D",
 		"terminal.ansiWhite": "#13491A",
 		"terminal.ansiYellow": "#716961",
-		"terminalCursor.background": "#EEFFF2",
+		"terminalCursor.background": "#000000",
 		"terminalCursor.foreground": "#716961",
 		"textLink.activeForeground": "#146A22",
-		"textLink.foreground": "#C8F1C0",
-		"titleBar.activeBackground": "#EEFFF2",
-		"titleBar.activeForeground": "#146A22",
-		"titleBar.border": "#EEFFF260",
-		"titleBar.inactiveBackground": "#EEFFF2",
+
+
+
+
+
+
+		
+		"textLink.foreground": "#ffffff",
+		"titleBar.activeBackground": "#146A22",
+		"titleBar.activeForeground": "#ffffff",
+		"titleBar.border": "#ffffff",
+		"titleBar.inactiveBackground": "#0e491b",
 		"titleBar.inactiveForeground": "#C8F1C0",
 		"tree.indentGuidesStroke": "#6B786A",
-		"widget.shadow": "#EEFFF230",
+		"widget.shadow": "#41aa2781",
+
 	  },
 	  "tokenColors": [
 		{
@@ -214,7 +223,7 @@
 			"storage.modifier"
 		  ],
 		  "settings": {
-			"foreground": "#716961"
+			"foreground": "#000000"
 		  }
 		},
 		{
