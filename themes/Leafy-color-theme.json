@@ -1,3 +1,11 @@
+//
+//will try later one maybe once a week
+
+
+
+//color timeeee
+
+
 {
 	"name": "Leafy",
 	  "$schema": "vscode://schemas/color-theme",
@@ -11,8 +19,7 @@
 		"activityBarBadge.foreground": "#d34d4d",
 		
 
-//
-//will try later one maybe once a week
+
 		"badge.background": "#98c99d",
 	//	"badge.foreground": "#000000",
 	//	"breadcrumb.activeSelectionForeground": "#eb1b1b",
